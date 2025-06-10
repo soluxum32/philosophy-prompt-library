@@ -70,3 +70,23 @@ You are here:
 This repository is part of a broader portfolio exploring AI, philosophy, and prompt design as forms of intellectual infrastructure. All entries are written collaboratively between human and model.
 
 “Let contradiction breathe.”
+
+
+---
+
+## 🧪 Command Line Tool (dueling_daemon.py)
+
+Run this Python script to interact with the Dueling Logic System directly from your terminal.
+
+```bash
+$ python dueling_daemon.py
+Enter your philosophical prompt: What is the self?
+
+[⚖ Socratic Core]:
+...
+
+[🔥 Nietzschean Core]:
+...
+
+[🧩 Unified Voice]:
+...
