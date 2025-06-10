@@ -59,8 +59,8 @@ Justice lives not as a truth but as a pressure — within and between us.
 
 ## 📎 Project Link
 
-You are here: `https://github.com/YOUR_USERNAME/dueling-daemon`  
-(Fill in your GitHub username when you copy this in)
+You are here: 
+
 
 ---
 
