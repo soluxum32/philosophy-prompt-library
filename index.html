@@ -10,41 +10,76 @@
       font-family: Georgia, serif;
       margin: 0;
       padding: 2rem;
-      background-color: #f8f8f8;
+      background-color: #fdfdfd;
       color: #222;
       line-height: 1.6;
     }
     h1 {
       font-family: 'Nanum Brush Script', cursive;
-      font-size: 3rem;
-      margin-bottom: 0.5rem;
+      font-size: 2.8rem;
+      text-align: center;
+      margin-top: 1rem;
     }
     .quote {
       font-family: 'Nanum Brush Script', cursive;
       font-size: 1.5rem;
-      color: #444;
-      margin: 1.5rem 0;
+      color: #555;
+      text-align: center;
+      margin-top: 1rem;
+    }
+    .container {
+      max-width: 720px;
+      margin: auto;
+      padding: 1rem;
+    }
+    .enso {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
+    .enso svg {
+      width: 120px;
+      height: 120px;
+      opacity: 0.9;
     }
     h2 {
       margin-top: 2rem;
-      font-size: 1.5rem;
+      font-size: 1.3rem;
     }
-    .container {
-      max-width: 750px;
-      margin: auto;
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #1a3d6d;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
-
 <body>
   <div class="container">
-    <h1>Dueling Daemon</h1>
-    <p>A <strong>philosophy prompt engine</strong> simulating a logical dialogue between two minds: the Socratic and the Nietzschean.</p>
+    <div class="enso">
+      <!-- Zen enso SVG -->
+      <svg viewBox="0 0 100 100">
+        <path d="M50,10
+                 a40,40 0 1,0 0.1,0"
+              fill="none"
+              stroke="#111"
+              stroke-width="8"
+              stroke-linecap="round"
+              stroke-linejoin="round"/>
+      </svg>
+    </div>
 
+    <h1>Dueling Daemon</h1>
     <div class="quote">“Let contradiction breathe.”</div>
 
+    <p style="text-align:center;"><em>A philosophical prompt engine revealing paradox through two opposing minds.</em></p>
+
     <h2>About the Project</h2>
-    <p>This repository is an ongoing exploration into how AI can simulate philosophical paradox by opposing two fundamental logics within one system. Inspired by the left and right brain hemispheres, it captures reason and fire in tension.</p>
+    <p>This is not a chatbot — it is a ritual. A structured clash between the Logos of Form and the Fire of Becoming. Inspired by the enso: empty yet full, open yet whole.</p>
 
     <h2>Explore</h2>
     <ul>
@@ -55,7 +90,7 @@
     </ul>
 
     <h2>Created By</h2>
-    <p>This project is co-developed by a human author and a generative language model, with all prompts, structure, and logic authored to explore both philosophical inquiry and technical documentation.</p>
+    <p>Born of paradox. Built in Markdown, JSON, and Python — hosted in the GitHub ether. A human and a model, sharing one breath.</p>
   </div>
 </body>
 </html>
