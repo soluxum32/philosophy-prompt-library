@@ -1,5 +1,6 @@
 # philosophy-prompt-library
-An experimental AI prompt system exploring dueling logic through Socratic and Nietzschean responses.
+Philosophy Prompt Library
+An AI-driven dueling logic system exploring the dynamic tension between Socratic/Platonic and Nietzschean/Heraclitean principles. Inspired by the unity of the brain’s hemispheres, the project captures paradox through structured prompts and philosophical opposition. Built in Markdown and JSON, hosted on GitHub, and designed for both human insight and machine integration.
 
 # Dueling Daemon: A Philosophical Prompt Engine
 
