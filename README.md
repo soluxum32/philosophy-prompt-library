@@ -90,3 +90,13 @@ Enter your philosophical prompt: What is the self?
 
 [🧩 Unified Voice]:
 ...
+
+
+---
+
+## ➕ Batch Prompt Loader
+
+Use `add_prompts.py` to add new entries to your prompt library.
+
+```bash
+$ python add_prompts.py
