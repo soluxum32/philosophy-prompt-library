@@ -1,7 +1,16 @@
-{
-  "prompt": "Can justice be said to exist as anything more than something relative to the individual?",
-  "socratic_core": "Justice must be more than individual opinion — otherwise, it collapses into whim. Recall Socrates in The Republic: justice is harmony, the soul rightly ordered.",
-  "nietzschean_core": "Justice? That’s the name the strong give their victory once the blood dries. No 'justice' — only acts, and interpretations.",
-  "unified_voice": "Justice lives not as a truth but as a pressure — within and between us.",
-  "tags": ["justice", "ethics", "truth", "philosophy"]
-}
+[
+  {
+    "prompt": "Can justice be said to exist as anything more than something relative to the individual?",
+    "socratic_core": "Justice must be more than individual opinion — otherwise, it collapses into whim. Recall Socrates in The Republic: justice is not merely doing what one wishes, but each part of the soul and each member of the city performing its proper role in harmony. It is objective not in the sense of being tangible, but in that it serves a larger order — an ideal that the reasoned soul can approach, even if imperfectly.",
+    "nietzschean_core": "Justice? That’s just the name the strong give to their victories after the blood dries. Each “justice” is born from a particular will — a desire, a fear, a cultural instinct. What the noble once called justice, the herd now calls oppression. What is “fair” to one class is tyranny to another. Heraclitus already knew: 'The people must fight for the law as they would for their city walls.' And Nietzsche? He would grin: There are no just acts. Only acts — later judged.",
+    "unified_voice": "Justice may not be a universal constant — but neither is it mere opinion. It is a name we give to balance, when we can feel it — and a sword we wield when we cannot. Perhaps it lives in the tension between the yearning for order and the impulse to overcome it. It exists not as a thing, but as a pressure — within and between us.",
+    "tags": ["justice", "ethics", "truth", "power"]
+  },
+  {
+    "prompt": "What is the self?",
+    "socratic_core": "The self is the rational soul — that which governs the passions and aspires toward truth. It is not the body, nor mere sensation, but that part of us which can reason and reflect. To know the self is to begin the philosophical journey.",
+    "nietzschean_core": "The self? A shifting mask of instincts — a temporary gathering of drives, no more. We are not selves, we are flux. 'I' is merely a grammar rule. Heraclitus said it first: you can’t step in the same self twice.",
+    "unified_voice": "The self may be both actor and illusion — a construct of continuity built from fragments. It is a fire we name, though it never stays still.",
+    "tags": ["self", "identity", "truth", "ontology"]
+  }
+]
